@@ -1,0 +1,2 @@
+# Exception-Program
+User enter number or (array index in this case). Then they enter a name to store in the index they first entered. index could only be from 1-6. I  need to then create exceptions in case the user inputs a number smaller than 1 or bigger then 6. Also i need to create an exception that doesn't let a user input his name into an array slot that has already been entered. to finish it needs to be a do-while loop that won't end until all six slots are taken. Please help, i've been working on this for a while, and i just can't seem to get it right. 
